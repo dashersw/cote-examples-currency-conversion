@@ -1,0 +1,15 @@
+{
+  "name": "cote-examples-currency-conversion",
+  "version": "1.0.0",
+  "description": "An example microservices application with cote",
+  "keywords": [
+    "microservices",
+    "node.js"
+  ],
+  "repository": "dashersw/cote-examples-currency-conversion",
+  "author": "Armagan Amcalar <armagan@amcalar.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cote": "^0.13.2"
+  }
+}
