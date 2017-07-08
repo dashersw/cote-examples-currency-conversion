@@ -1,6 +1,6 @@
 const cote = require('cote');
 
-const requester = new cote.Requester({name: 'sdf', key: 'arbitration'})
+const requester = new cote.Requester({name: 'arbitration updater', key: 'arbitration'})
 
 setInterval(() => {
     var req = {
